@@ -9,11 +9,11 @@
 
 ## **Нарисовал модель данных, создал и заполнил таблицы**
 
-:heavy_check_mark: Концептуальная модель
+:heavy_check_mark: 2.4 Концептуальная модель
 ![Alt-Концептуальная модель](https://github.com/Denis-DL/data-engineering/blob/master/homework/DE101Module2/2.4Conceptual.png)    
-:heavy_check_mark: Логическая модель
+:heavy_check_mark: 2.4 Логическая модель
 ![Alt-Логическая модель](https://github.com/Denis-DL/data-engineering/blob/master/homework/DE101Module2/2.4Logical.png)    
-:heavy_check_mark: Физическая модель
+:heavy_check_mark: 2.4 Физическая модель
 ![Alt-Физическая модель](https://github.com/Denis-DL/data-engineering/blob/master/homework/DE101Module2/2.4Physical.png)   
     
 :heavy_check_mark: [2.4 DDL](https://github.com/Denis-DL/data-engineering/blob/master/homework/DE101Module2/2.4%20DDL%20.sql)    
