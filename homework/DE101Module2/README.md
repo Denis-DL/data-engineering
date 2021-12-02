@@ -9,4 +9,5 @@
 ----
 ## **Нарисовал модель данных, создал и заполнил таблицы**
 
+Концептуальная модель
 ![Alt-Концептуальная модель](https://github.com/Denis-DL/data-engineering/blob/master/homework/DE101Module2/2.4Conceptual.png)
