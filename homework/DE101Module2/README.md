@@ -19,4 +19,9 @@
 :heavy_check_mark: [2.4 DDL](https://github.com/Denis-DL/data-engineering/blob/master/homework/DE101Module2/2.4%20DDL%20.sql)    
 :heavy_check_mark: [2.4 INSERT DATA](https://github.com/Denis-DL/data-engineering/blob/master/homework/DE101Module2/2.4%20INSERT%20DATA.sql)    
 
+## **Создание Аналитической БД в облаке AWS**
+
+:heavy_check_mark: 2.5 Создал учетную запись в AWS        
+:heavy_check_mark: 2.5 Создал БД Postgres и подключился к новой БД через DBeaver    
+:heavy_check_mark: 2.5 Загрузил данные в новую БД    
 
