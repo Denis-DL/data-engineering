@@ -25,3 +25,9 @@
 :heavy_check_mark: 2.5 Создал БД Postgres и подключился к новой БД через DBeaver    
 :heavy_check_mark: 2.5 Загрузил данные в новую БД    
 
+## **Визуализация данных в сервисах**    
+
+:heavy_check_mark: [2.6 Superstore Amazon Quicksight.pdf](https://github.com/Denis-DL/data-engineering/blob/master/homework/DE101Module2/2.6%20Superstore%20Amazon%20Quicksight.pdf)    
+:heavy_check_mark: [2.6 Superstore Google Data Studio.pdf](https://github.com/Denis-DL/data-engineering/blob/master/homework/DE101Module2/2.6%20Superstore%20Google%20Data%20Studio.pdf)     
+:heavy_check_mark: [2.6 Superstore Klipfolio.pdf](https://github.com/Denis-DL/data-engineering/blob/master/homework/DE101Module2/2.6%20Superstore%20Klipfolio.pdf)
+
