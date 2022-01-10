@@ -9,16 +9,6 @@
 
 *## 3.9 Знакомство с BI Tableau Сервером (обзор Tableau Server)
 
-**Видео лекция - теория** - [Знакомство с Tableau Server](https://youtu.be/TYEQir1seqI) 
-
-**Видео лекция - практика** - [Демонстрация и Установка Tableau Server на виртуальную Машину Windows](https://youtu.be/TYEQir1seqI?t=1218) 
-
-### Дополнительные материалы для изучения
-
-1. [Tableau Server бесплатный обучающие видео](https://www.tableau.com/learn/training/20203) (English)
-2. [Tableau Форум](https://tableau-forum.ru/viewforum.php?id=2) (Русский)
-3. [Установка Tableau Server на Windows 10](https://medium.com/ampersand-academy/how-to-install-tableau-server-on-windows-10-server-2012-e9c7cab9b21f) (English)
-
 ### Практика
 В данном упражнении вам необходимо будет скачать и установить Tableau Сервер. Как вы поняли из видео, вам необходимо минимум 8 Гб оперативки (если ставить на Windows без виртуальной машины) и 16 Гб (если использовать виртуальную машину). 
 
@@ -31,6 +21,8 @@
 7. Хотите больше? Попробуйте использовать [TabPy](https://github.com/tableau/TabPy) для Tableau Desktop/Server.
 
 Если совсем все плохо, тогда оставайтесь с Tableau Public.
+
+## 3.12 Требования к BI разработчику/инженеру
 
 ### Практика
 1. Используя систему STAR попробуйте описать несколько кейсов из вашего BI опыта. 
